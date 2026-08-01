@@ -41,6 +41,6 @@ Voice-controlled desktop assistant built with Python and AI automation.
 
 📧 **Email:** bajajsiddhant1000@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/siddhant-kumar-bajaj-6779b9215/)
 
 💻 **GitHub:** https://github.com/SiddBajaj
